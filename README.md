@@ -3,7 +3,7 @@
 ## Introduction :sparkles:
 We use linear layouts with orientation horizontal and vertical. 
 Also, we use weightSum attribute. 
-We add OnClickListeners on the buttons and we display useful Toaste messages!
+We add OnClickListeners on the buttons and on `button click` we display useful Toast messages!
 
 ## Our Application
 ![image](https://github.com/pmoschos/NestedLinearLayouts/assets/133533759/101471a2-4d93-45ff-9032-9abc90eef128)
