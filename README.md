@@ -78,7 +78,7 @@ Each button in the `ThirdActivity` is linked to an event listener that triggers 
 These Toast messages serve as placeholders for future functionality related to each language or technology.
 
 ## Conclusion :bookmark_tabs:
-`ThirdActivity` is an interactive and educational part of the application, introducing students in: 
+It is an interactive and educational application which introduces students in: 
 - **Nested Linear Layouts**
 - **OnClickListeners**
 - **Toast messages**
